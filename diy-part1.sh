@@ -13,3 +13,6 @@
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
+git clone https://github.com/py14551/openwrt package/py
+git clone https://github.com/py14551/upx tools/upx
+git clone https://github.com/py14551/ucl tools/ucl
