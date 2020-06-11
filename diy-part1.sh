@@ -16,4 +16,5 @@
 git clone https://github.com/py14551/openwrt package/py
 git clone https://github.com/py14551/upx tools/upx
 git clone https://github.com/py14551/ucl tools/ucl
+rm -rf /package/network/config/firewall
 git clone https://github.com/py14551/firewall package/network/config/firewall
